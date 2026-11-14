@@ -25,4 +25,4 @@ def download_video(message):
         bot.reply_to(message, f"حدث خطأ: {e}")
 
 bot.infinity_polling()
-tots  
+
